@@ -1,0 +1,10 @@
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\bin\Debug\DBConnectivity.exe
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\bin\Debug\DBConnectivity.pdb
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\obj\x86\Debug\DBConnectivity.Form1.resources
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\obj\x86\Debug\DBConnectivity.Properties.Resources.resources
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\obj\x86\Debug\DBConnectivity.csproj.GenerateResource.Cache
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\obj\x86\Debug\DBConnectivity.exe
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\obj\x86\Debug\DBConnectivity.pdb
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\bin\Debug\bin\Debug\DBTest.mdf
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\bin\Debug\bin\Debug\DBTest_log.ldf
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\DBConnectivity\DBConnectivity\bin\Debug\DBConnectivity.exe.config
